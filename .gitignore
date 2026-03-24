@@ -1,0 +1,9 @@
+*
+!.gitignore
+!*.xaml
+!*.cs
+!*.xaml.cs
+!*.csproj
+!*.csproj.user
+!*.slnx
+!README.md
